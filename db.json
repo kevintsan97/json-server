@@ -27,7 +27,7 @@
       "todoId": [1,3]
     }
   ],
-  "todos": {
+  "todos": [
      {
       "id": 1,
       "name": "Cleaning"
@@ -40,5 +40,5 @@
       "id": 3,
       "name": "Working"
     }
-  }
+  ]
 }
